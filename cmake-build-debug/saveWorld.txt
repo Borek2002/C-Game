@@ -1,0 +1,24 @@
+3 0 2
+20 20 
+Fox 17 11 3
+Fox 11 13 3
+Wolf 7 15 3
+Wolf 16 12 3
+Human 16 7 1
+Antylop 17 15 3
+Antylop 1 18 3
+Sheep 15 6 3
+Turtle 8 0 2
+Turtle 6 11 2
+Borscht 11 10 3
+Guarana 11 12 1
+Guarana 10 11 1
+Berries 8 3 1
+Borscht 12 10 1
+Dandelion 8 11 2
+Berries 9 3 3
+Borscht 10 10 2
+Berries 9 2 4
+Guarana 10 12 5
+Dandelion 7 11 4
+Grass 6 2 3
